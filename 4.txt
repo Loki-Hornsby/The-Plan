@@ -1,0 +1,88 @@
+(4) --> Work out what you need to survive.
+
+• Food
+    • Preparing
+        • Disinfection methods
+        • Cooking
+        • Available Meals
+    • Sources / Collection
+        • Hunting animals and skinning them
+            • Governmental Permission
+        • Farming
+        • Foraging
+    • Nutritional value
+    • Storage
+
+• Water
+    • Preparing
+        • Disinfection methods
+        • Filtering
+    • Sources / Collection
+        • Rivers
+        • Rain Catcher
+        • Underground
+    • Storage
+
+• Electricity
+    • Generator
+        • Fuel
+    • Infrastructure
+        • Wiring
+        • Sockets
+        • Cables
+        • Plugs
+        • Solar Panels
+        • Governmental Permission
+
+• Shelter
+    •  A small 1x1 wooden house
+        • Bed
+        • Storage
+        • Light
+        • Governmental Permission
+        
+• Warmth
+    • Clothing
+        • Thermal Gear
+            • Hat
+            • Scarf
+            • Gloves
+            • Thermal top
+            • Thermal trousers
+            • Socks
+        • Waterproof Gear
+            • Coat
+            • Gloves
+            • Trousers
+    • Blankets
+    
+• Tools
+    • Knife
+    • Bow and arrows
+    • Axe
+    • First Aid
+        • Duct tape / Bandages / Plasters
+        • Disinfectant (Alcohol)
+        • Drugs
+            • Pain killers
+            • Antibiotics
+    • SOS kit
+        • Flare
+        • Emergency contact device
+        
+• Entertainment / Sanity
+    • Books + Pens / Pencils
+        • Reading
+        • Writing
+        • Drawing
+    • Gardening
+    • Farming
+    • Repairs
+    • Hunting
+    • Woodwork
+    • A partner (?)
+    • PC (?)
+
+• Income
+    • PC
+        • Programming
